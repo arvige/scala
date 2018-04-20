@@ -1,4 +1,4 @@
-package com.epam.ruslan.myfirstscala
+//package com.epam.ruslan.myfirstscala
 
 object PrintOptionsOnStart {
   var ruslan:Person = null
